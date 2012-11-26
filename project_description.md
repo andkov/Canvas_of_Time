@@ -1,0 +1,14 @@
+Canvass of Time
+
+
+========================================================
+Panels suspended in space. Each panel hosts a canvans of time. Flicking up and down sets the carouselle of panels in motion. 
+
+![concept](figures/level_1.png)
+
+
+
+Earth Time Atlas
+========================================================
+
+![concept](figures/Earth_Time_Atlas.png)

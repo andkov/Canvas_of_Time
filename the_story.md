@@ -1,0 +1,12 @@
+This is Earth
+![earth](figures/images4story/Earth.png)
+
+
+and this is 4600 million years of its existence.
+
+![concept](figures/images4story/level_1.png)
+
+well, only the length. The height is there to give time some body. This is the canvas to represent events in time. What makes sense to put on such gigantic scale? But first, who says it's gigantic? Do we really have a clear idea about how long "4600 million years""
+
+![concept](figures/images4story/level_1_events.png)
+here are some possible alternatives.
